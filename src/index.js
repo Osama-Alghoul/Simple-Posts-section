@@ -1,3 +1,7 @@
+// IMPORTANT TO KNOW
+// This website is using a backend to store data.
+// You have to run the backend server on port 8080 in order to run the website.
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

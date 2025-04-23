@@ -1,3 +1,5 @@
+# IMPORTANT TO KNOW. This website is using a backend to store data, You have to run the backend server on port 8080 in order to run the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
